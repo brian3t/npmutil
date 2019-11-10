@@ -1,1 +1,1 @@
-modules={message = 'Hello'}
+modules = {message: 'Hello'}
