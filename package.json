@@ -1,0 +1,19 @@
+{
+  "name": "brian_npmutil",
+  "version": "1.0.0",
+  "description": "npm util functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brian3t/npmutil.git"
+  },
+  "author": "ngxtri@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brian3t/npmutil/issues"
+  },
+  "homepage": "https://github.com/brian3t/npmutil#readme"
+}
